@@ -1,4 +1,4 @@
-package zc.zc.util;
+package zc.util;
 
 import javax.swing.*;
 import java.awt.*;

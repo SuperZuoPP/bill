@@ -9,9 +9,9 @@ import java.awt.GridLayout;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-import zc.zc.util.CircleProgressBar;
-import zc.zc.util.ColorUtil;
-import zc.zc.util.GUIUtil;
+import zc.util.CircleProgressBar;
+import zc.util.ColorUtil;
+import zc.util.GUIUtil;
 
 public class SpendPanel extends JPanel{
     static{

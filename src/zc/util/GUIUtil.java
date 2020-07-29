@@ -1,4 +1,4 @@
-package zc.zc.util;
+package zc.util;
 
 import java.awt.Color;
 import java.awt.Dimension;
