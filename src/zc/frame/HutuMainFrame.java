@@ -11,7 +11,7 @@ public class HutuMainFrame extends JFrame{
 
     private HutuMainFrame(){
         this.setSize(500,450);
-        this.setTitle("一本糊涂账");
+        this.setTitle("一本糊涂账1");
         this.setContentPane(MainPanel.instance);
 
         this.setLocationRelativeTo(null);
