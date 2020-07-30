@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 public class GUIUtil {
-    private static String imageFolder = "F:/learn/java/code/bill/img";
+    private static String imageFolder = "G:/zc/learn/java/bill/img";
 
     public static void setImageIcon(JButton b, String fileName, String tip) {
         ImageIcon i = new ImageIcon(new File(imageFolder, fileName).getAbsolutePath());
